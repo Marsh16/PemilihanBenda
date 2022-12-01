@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "27866907106",
+    "firebase_url": "https://myproject1-a9ebc-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "myproject1-a9ebc",
+    "storage_bucket": "myproject1-a9ebc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:27866907106:android:2f956bba635c313841b9bb",
+        "android_client_info": {
+          "package_name": "PemilihanBenda.uc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "27866907106-qiovh293gdb63vnlaeh8arp5g5gcqi62.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzZjg3lAnP81z9nHNRHNm16phwForsEtI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "27866907106-qiovh293gdb63vnlaeh8arp5g5gcqi62.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:27866907106:android:91695d80122f1a4641b9bb",
+        "android_client_info": {
+          "package_name": "com.uc.pemilihanbenda"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "27866907106-qiovh293gdb63vnlaeh8arp5g5gcqi62.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzZjg3lAnP81z9nHNRHNm16phwForsEtI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "27866907106-qiovh293gdb63vnlaeh8arp5g5gcqi62.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
